@@ -1,0 +1,73 @@
+[
+  {
+    "milestone": 1,
+    "repoName": "precourse",
+    "board": "deliverables"
+  },
+  {
+    "milestone": 2,
+    "repoName": "workflows",
+    "chapters": 2,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 3,
+    "repoName": "agile-development",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 4,
+    "repoName": "ux-ui-design",
+    "chapters": 2,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 5,
+    "repoName": "welcome-to-js",
+    "chapters": 2,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 6,
+    "repoName": "debugging",
+    "chapters": 4,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 7,
+    "repoName": "behavior-strategy-implementation",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 8,
+    "repoName": "separation-of-concerns",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 9,
+    "repoName": "architecture",
+    "chapters": 4,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 10,
+    "repoName": "asynchronous-programming",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 11,
+    "repoName": "cloud-based-backends",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 13,
+    "repoName": "final-project",
+    "chapters": 4,
+    "board": "deliverables"
+  }
+]

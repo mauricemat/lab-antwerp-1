@@ -14,12 +14,12 @@ labels: deliverable
   - project board: move this issue to the `deliverables` board
 -->
 
-<!-- if it's a group project, list all members and include team roles:
+<!-- if it's a group project, list all members:
 
-- name: _project lead_
-- name: _repository owner_
-- name: _other roles?_
-- name
+- name:
+- name:
+- name:
+- name:
 - ...
 -->
 
